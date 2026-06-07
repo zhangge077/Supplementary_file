@@ -1,0 +1,16 @@
+Dear Editor,
+
+We are pleased to submit our manuscript entitled “Amphipathic Quantitative Structure–Activity Relationships Accelerated Identification of Novel Antimicrobial Peptides for Inhibiting Pectobacterium brasiliense” for consideration in the Journal of Agricultural and Food Chemistry.
+
+Antimicrobial peptides (AMPs) are a promising strategy for crop protection due to their rapid membrane-targeting activity, broad-spectrum effectiveness, and low risk of resistance development. However, their application against Pectobacterium brasiliense, a major soft rot pathogen with a broad host range, has been little studied. Most existing predictive models are based on large AMP databases, but studies focusing on small sets of AMPs, especially those targeting plant pathogens, are limited.
+
+α-Helical AMPs are known to rely on amphipathicity for antimicrobial activity; however, the cooperative interactions between hydrophobic and hydrophilic faces, as well as the compositional effects of hydrophobic residues, have not been systematically characterized. In this study, we developed a novel approach that integrates rational modification of the hydrophobic face of Q1_19, based on our previous study published in Molecular Plant Pathology, with the cooperative design of hydrophilic faces by considering the spatial relationships of residues at i+3 and i+4 positions.
+
+Our pipeline combines 3D structural modeling via ESMFold with HELNET-based helix net feature extraction. Using a CatBoost classifier, we achieved a mean cross-validation accuracy of 0.88 and a macro recall of 0.85, reliably identifying peptides with low MICs (7.81 µg/mL). In vitro and in planta experiments confirmed that the selected peptides effectively inhibited P. brasiliense without detectable toxicity.
+
+We confirm that this manuscript has not been published elsewhere and is not under consideration by any other journal. All authors have approved the manuscript and agree with its submission to the Journal of Agricultural and Food Chemistry.
+
+Thank you for your consideration. We look forward to your review.
+
+Sincerely,
+Jiejun Peng

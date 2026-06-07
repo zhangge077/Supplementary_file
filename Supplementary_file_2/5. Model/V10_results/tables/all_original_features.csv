@@ -1,0 +1,15 @@
+Rank,Feature,DataType
+1,Length,int64
+2,Hyd,float64
+3,z,int64
+4,FreqPolar,float64
+5,FreqNonPolar,float64
+6,HoF_HMom_PDB,float64
+7,HMom_PDB,float64
+8,HiF_HiMom_PDB,float64
+9,Center_Angle_deg,float64
+10,HCS4_HF_Mean_PDB,float64
+11,HCS4_HF_Mean_SD_PDB,float64
+12,HCS3_HF_Mean_PDB,float64
+13,HCS3_HF_Mean_SD_PDB,float64
+14,HoF_HiF_Distance,float64

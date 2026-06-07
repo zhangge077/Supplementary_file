@@ -1,0 +1,3 @@
+Category,Threshold,Count,Percentage
+High,<=3,50,66.7%
+Low,>3,25,33.3%

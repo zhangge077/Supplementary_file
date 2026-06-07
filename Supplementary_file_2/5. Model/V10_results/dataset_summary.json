@@ -1,0 +1,36 @@
+{
+  "n_samples": 75,
+  "n_features": 14,
+  "feature_names": [
+    "Length",
+    "Hyd",
+    "z",
+    "FreqPolar",
+    "FreqNonPolar",
+    "HoF_HMom_PDB",
+    "HMom_PDB",
+    "HiF_HiMom_PDB",
+    "Center_Angle_deg",
+    "HCS4_HF_Mean_PDB",
+    "HCS4_HF_Mean_SD_PDB",
+    "HCS3_HF_Mean_PDB",
+    "HCS3_HF_Mean_SD_PDB",
+    "HoF_HiF_Distance"
+  ],
+  "class_distribution": {
+    "High": 50,
+    "Low": 25
+  },
+  "missing_values": 0,
+  "n_classes": 2,
+  "class_names": [
+    "High",
+    "Low"
+  ],
+  "classification_type": "two-class",
+  "thresholds": {
+    "Low": "<=3",
+    "High": ">3"
+  },
+  "date": "2026-05-23 23:58:42"
+}

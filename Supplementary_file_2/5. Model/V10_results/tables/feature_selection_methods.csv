@@ -1,0 +1,9 @@
+Method,N_Features,Features
+selectkbest_f_classif_5,5,"Hyd, z, FreqPolar, FreqNonPolar, Center_Angle_deg"
+selectkbest_f_classif_10,10,"Hyd, z, FreqPolar, FreqNonPolar, HMom_PDB..."
+selectkbest_mutual_info_5,5,"Hyd, z, FreqPolar, FreqNonPolar, HCS3_HF_Mean_PDB"
+selectkbest_mutual_info_10,10,"Length, Hyd, z, FreqPolar, FreqNonPolar..."
+selectfrommodel_rf_5,5,"Hyd, HoF_HMom_PDB, HMom_PDB, HCS4_HF_Mean_SD_PDB, HCS3_HF_Mean_SD_PDB"
+selectfrommodel_rf_10,9,"Hyd, HoF_HMom_PDB, HMom_PDB, HiF_HiMom_PDB, Center_Angle_deg..."
+selectfrommodel_xgb_5,5,"Hyd, HCS4_HF_Mean_SD_PDB, HCS3_HF_Mean_PDB, HCS3_HF_Mean_SD_PDB, HoF_HiF_Distance"
+selectfrommodel_xgb_10,5,"Hyd, HCS4_HF_Mean_SD_PDB, HCS3_HF_Mean_PDB, HCS3_HF_Mean_SD_PDB, HoF_HiF_Distance"

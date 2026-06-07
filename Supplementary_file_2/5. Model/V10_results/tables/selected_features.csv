@@ -1,0 +1,10 @@
+Rank,Feature
+1,Hyd
+2,HoF_HMom_PDB
+3,HMom_PDB
+4,HiF_HiMom_PDB
+5,Center_Angle_deg
+6,HCS4_HF_Mean_SD_PDB
+7,HCS3_HF_Mean_PDB
+8,HCS3_HF_Mean_SD_PDB
+9,HoF_HiF_Distance
